@@ -18,7 +18,7 @@ class Footer extends React.Component {
           <ul className="socials">
             <li>
               <a
-                href="https://drive.google.com/file/d/1aAAEtFztpxLZtdzoDNWfejBjn5WxXFVB/view?usp=sharing"
+                href="https://drive.google.com/file/d/1eSRS4Fs7bV3Y56_xQU3RlcABFfQw-Bny/view?usp=sharing"
                 target="_blank"
                 rel="noopener noreferrer"
               >
