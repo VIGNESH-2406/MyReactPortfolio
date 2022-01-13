@@ -43,7 +43,7 @@ class Volunteer extends React.Component {
       .catch((error) => console.log(error));
   }
   render() {
-    const { heading, volunteer } = this.state;
+    const { volunteer } = this.state;
     return (
       <section className="volunteer" id="volunteer">
         <div className="entry">
