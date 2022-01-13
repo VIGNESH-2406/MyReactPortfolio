@@ -1,0 +1,138 @@
+{
+  "portfolio": [
+    {
+      "title": "Vista-Shop",
+      "type": "Web Development",
+      "image": "./Images/ecommerce.jpg",
+      "description": "VISTA-SHOP An online marketplace for Top brand for Phones and Electronics & fashion.",
+      "cta": {
+        "link": "https://vista-shop.herokuapp.com/",
+        "git": "https://github.com/VIGNESH-2406/eCommerce"
+      },
+      "tools": [
+        "React.js",
+        "Redux",
+        "Bootstrap",
+        "Node.js",
+        "MongoDb",
+        "PayPal-integrated"
+      ]
+    },
+    {
+      "title": "Airbnb",
+      "type": "Web Development",
+      "image": "./Images/best.jpg",
+      "description": "Airbnb, An app that operates as an online marketplace for An for lodging, primarily homestays for vacation rentals, and lodging, and tourism activities.",
+      "cta": {
+        "link": "https://airbnb-frontend-ashy.vercel.app/",
+        "git": "https://github.com/VIGNESH-2406/airbnb-frontend"
+      },
+      "tools": [
+        "React.js",
+        "Next.js",
+        "TailwindCss",
+        "Node.js",
+        "MongoDb",
+        "PayPal-integrated"
+      ]
+    },
+    {
+      "title": "Impressions",
+      "type": "Web Development",
+      "image": "./Images/blogPost.jpeg",
+      "description": "IMPRESSIONS, A Social Blog Post app to connect with friends & family, Share photos and add likes and comments",
+      "cta": {
+        "link": "https://impressionz.herokuapp.com/",
+        "git": "https://github.com/VIGNESH-2406/Memories"
+      },
+      "tools": ["React", "MonogoDb", "Node.js", "Express.js"]
+    },
+    {
+      "title": "Vroom cars",
+      "type": "Web Development",
+      "image": "./Images/carr.jpeg",
+      "description": "VROOM CARS, An online car rental app for renting out and selling cars on lease.",
+      "cta": {
+        "link": "https://vroom-cars.herokuapp.com",
+        "git": "https://github.com/VIGNESH-2406/Vroom-cars"
+      },
+      "tools": [
+        "React.js",
+        "Bootstrap",
+        "Node.js",
+        "MongoDb",
+        "Stripe-integrated"
+      ]
+    },
+    {
+      "title": "Amazon clone frontend.",
+      "type": "Web Development",
+      "image": "./Images/amazonHomepage.jpg",
+      "description": "Amazon clone frontend built with Next.js and tailwindCss.",
+      "cta": {
+        "link": "https://amazon1-vignesh-2406.vercel.app/",
+        "git": "https://github.com/VIGNESH-2406/Amazon"
+      },
+      "tools": ["REACT.js", "Redux", "Next.js", "TailwindCss"]
+    },
+    {
+      "title": "Voice-powered Expense Tracker",
+      "type": "Web Development",
+      "image": "./Images/utracker.jpg",
+      "description": "A Voice powered application to track all your expenses and help you keeping a check on your expenses . I developed the website and the mobile app",
+      "cta": {
+        "link": "https://v-powered-expense-tracker2021.netlify.app/",
+        "git": "https://github.com/VIGNESH-2406/TaskTracker"
+      },
+      "tools": ["React", "Context-Api Hook", "Speeechly"]
+    }
+  ],
+  "skills": {
+    "soft": ["Creative", "Determined", "Reliability", "Team work"],
+    "languages": ["HTML", "CSS", "Javascript"],
+    "tools": ["React.js", "Next.js", "Redux"],
+    "backend": ["Node.js", "MongoDb", "MySql", "Express.js", "AWS Lambda"]
+  },
+  "experience": [
+    {
+      "company": "Full stack web development (IIT-M)",
+      "start": "JUN-2021",
+      "end": "Dec-2021",
+      "role": "GuvI-Geeks Pvt. Ltd.",
+      "logo": "./Images/IITMadrasLogo.svg.png",
+      "duty": [
+        "Built & deployed several fullstack projects with MERN stack technologies and wrote well designed, testable, efficient code by using best software development practices ,Test site compatibility across multiple browsers and devices",
+        "Write clean React.js, Redux and Node.js code, integrating design, extensions and third-party apps \naccording to web development plans.",
+
+        "Assemble and address technical and design requirements, integrating user-facing and front-end \nelements to maintain web presence effectiveness."
+      ]
+    },
+    {
+      "company": "Bharthi Vidhyapeeth College of Engineering(Navi Mumbai)",
+      "start": "(Mumbai University) 2016",
+      "end": "2021",
+      "role": "Instrumentation Engineering",
+      "logo": "./Images/mu.jpg",
+      "duty": [
+        "Provide technical support to the Hackathon team.",
+        "Created and designed RFID metal detector land/submarine models.",
+        "Won several medals in state-level championship in athletics "
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "Name": "Vignesh Paulraj",
+      "contact": 9930629471,
+      "email": "vigneshpaulraj4@gmail.com",
+      "role": "Full stack Web Developer",
+      "logo": "./Images/images.png",
+      "duty": [
+        "Designed the brand identity.",
+        "Provided technical support to the media and publicity team.",
+        "Ensured that the website is up and running.",
+        "Created and designed the website using WordPress."
+      ]
+    }
+  ]
+}
