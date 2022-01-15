@@ -106,12 +106,13 @@ class App extends React.Component {
       <div className="App">
         <Header />
         <Hero loaded={loaded} />
+        <Skills />
         <Portfolio
           heading="My Works"
           paragraph="These are some of the projects I've done recently."
           draw={this.Draw}
         />
-        <Skills />
+
         <Experience heading="Certifications and Education" />
         <Volunteer heading={"reach"} />
         <Footer />
