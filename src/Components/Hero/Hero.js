@@ -45,7 +45,7 @@ class Hero extends Component {
 
   render() {
     return (
-      <section className="hero animated fadeIn">
+      <section className="hero animated fadeIn" id="hero">
         <div className="row">
           <div className="about">
             <h4 className="compliment">
