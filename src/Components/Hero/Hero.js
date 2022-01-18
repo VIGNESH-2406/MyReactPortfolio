@@ -70,7 +70,12 @@ class Hero extends Component {
                   </a>
                 </li> */}
                 <li>
-                  <a href="https://github.com/VIGNESH-2406" title="Github">
+                  <a
+                    title="Github"
+                    href="https://github.com/VIGNESH-2406"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
                     <span className="icon icon-moongithub"></span>
                   </a>
                 </li>

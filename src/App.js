@@ -113,7 +113,7 @@ class App extends React.Component {
           draw={this.Draw}
         />
 
-        <Experience heading="Certifications and Education" />
+        <Experience heading="Certifications" />
         <Volunteer heading={"reach"} />
         <Footer />
         <Drawer content={drawContent} draw={draw} />
